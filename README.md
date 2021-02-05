@@ -9,10 +9,10 @@ nand_to_hack involves designing a computer hardware from the ground up starting 
 This first project involves the design of all Chips described in chapter 1 of the textbook by using only primitive nand gates. The chips and their implementation links to their implementation in .hdl (hardware definition language) are listed in the table below:
 Chip Name | Description| Design(in .hdl) 
 --- | --- | --- 
-Not | Not gate | . 
-And | And gate | . 
-Or | Or gate | . 
-Xor | Xor gate | . 
+Not | Not gate | [Not.hdl](https://github.com/ldfrancis/nand_to_tetris/blob/main/nand_to_hack/boolean_logic/Not.hdl)
+And | And gate | [And.hdl](https://github.com/ldfrancis/nand_to_tetris/blob/main/nand_to_hack/boolean_logic/And.hdl) 
+Or | Or gate | [Or.hdl](https://github.com/ldfrancis/nand_to_tetris/blob/main/nand_to_hack/boolean_logic/Or.hdl) 
+Xor | Xor gate | [Xor.hdl](https://github.com/ldfrancis/nand_to_tetris/blob/main/nand_to_hack/boolean_logic/Xor.hdl) 
 Mux | Mux gate | . 
 DMux | DMux gate | . 
 Not16 | 16bit Not | . 
