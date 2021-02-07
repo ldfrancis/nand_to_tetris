@@ -13,14 +13,14 @@ Not | Not gate | [Not.hdl](https://github.com/ldfrancis/nand_to_tetris/blob/main
 And | And gate | [And.hdl](https://github.com/ldfrancis/nand_to_tetris/blob/main/nand_to_hack/boolean_logic/And.hdl) 
 Or | Or gate | [Or.hdl](https://github.com/ldfrancis/nand_to_tetris/blob/main/nand_to_hack/boolean_logic/Or.hdl) 
 Xor | Xor gate | [Xor.hdl](https://github.com/ldfrancis/nand_to_tetris/blob/main/nand_to_hack/boolean_logic/Xor.hdl) 
-Mux | Mux gate | . 
-DMux | DMux gate | . 
-Not16 | 16bit Not | . 
-And16 | 16bit And | . 
-Or16 | 16bit Or | . 
-Mux16 | 16bit multiplexor | . 
-Or8Way | Or(in0,in1,...,in7) | . 
-Mux4Way16 | 16-bit/4-way mux | . 
-Mux8Way16 |16-bit/8-way mux | . 
+Mux | Mux gate | [Mux.hdl](https://github.com/ldfrancis/nand_to_tetris/blob/main/nand_to_hack/boolean_logic/Mux.hdl)  
+DMux | DMux gate | [DMux.hdl](https://github.com/ldfrancis/nand_to_tetris/blob/main/nand_to_hack/boolean_logic/DMux.hdl)  
+Not16 | 16bit Not | [Not16.hdl](https://github.com/ldfrancis/nand_to_tetris/blob/main/nand_to_hack/boolean_logic/Not16.hdl)  
+And16 | 16bit And | [And16.hdl](https://github.com/ldfrancis/nand_to_tetris/blob/main/nand_to_hack/boolean_logic/And16.hdl)  
+Or16 | 16bit Or | [Or16.hdl](https://github.com/ldfrancis/nand_to_tetris/blob/main/nand_to_hack/boolean_logic/Or16.hdl) 
+Mux16 | 16bit multiplexor | [Mux16.hdl](https://github.com/ldfrancis/nand_to_tetris/blob/main/nand_to_hack/boolean_logic/Mux16.hdl)  
+Or8Way | Or(in0,in1,...,in7) | [Or8Way.hdl](https://github.com/ldfrancis/nand_to_tetris/blob/main/nand_to_hack/boolean_logic/Or8Way.hdl)  
+Mux4Way16 | 16-bit/4-way mux | [Mux4Way16.hdl](https://github.com/ldfrancis/nand_to_tetris/blob/main/nand_to_hack/boolean_logic/Mux4Way16.hdl)  
+Mux8Way16 |16-bit/8-way mux | [Mux8Way16.hdl](https://github.com/ldfrancis/nand_to_tetris/blob/main/nand_to_hack/boolean_logic/Mux8Way16.hdl)  
 DMux4Way | 4-way demultiplexor | . 
 DMux8Way | 8-way demultiplexor | . 
