@@ -22,5 +22,5 @@ Mux16 | 16bit multiplexor | [Mux16.hdl](https://github.com/ldfrancis/nand_to_tet
 Or8Way | Or(in0,in1,...,in7) | [Or8Way.hdl](https://github.com/ldfrancis/nand_to_tetris/blob/main/nand_to_hack/boolean_logic/Or8Way.hdl)  
 Mux4Way16 | 16-bit/4-way mux | [Mux4Way16.hdl](https://github.com/ldfrancis/nand_to_tetris/blob/main/nand_to_hack/boolean_logic/Mux4Way16.hdl)  
 Mux8Way16 |16-bit/8-way mux | [Mux8Way16.hdl](https://github.com/ldfrancis/nand_to_tetris/blob/main/nand_to_hack/boolean_logic/Mux8Way16.hdl)  
-DMux4Way | 4-way demultiplexor | . 
-DMux8Way | 8-way demultiplexor | . 
+DMux4Way | 4-way demultiplexor | [DMux4Way.hdl](https://github.com/ldfrancis/nand_to_tetris/blob/main/nand_to_hack/boolean_logic/DMux4Way.hdl)  
+DMux8Way | 8-way demultiplexor | [DMux8Way.hdl](https://github.com/ldfrancis/nand_to_tetris/blob/main/nand_to_hack/boolean_logic/DMux8Way.hdl)  
