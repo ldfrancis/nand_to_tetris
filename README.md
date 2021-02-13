@@ -7,6 +7,7 @@ This repository contains the implementations for the concepts discussed in the c
 nand_to_hack involves designing a computer hardware from the ground up starting with a nand gate. The nand gate chip is used to build all other chips required to design the 'hack' computer. This chips are designed using a hardware simulator that can be [downloaded here](https://www.nand2tetris.org/software).
 ### Project 1: Boolean logic [[description](https://www.nand2tetris.org/project01)]
 This first project involves the design of all Chips described in chapter 1 of the textbook by using only primitive nand gates. The chips and their implementation links to their implementation in .hdl (hardware definition language) are listed in the table below:
+
 Chip Name | Description| Design(in .hdl) 
 --- | --- | --- 
 Not | Not gate | [Not.hdl](https://github.com/ldfrancis/nand_to_tetris/blob/main/nand_to_hack/boolean_logic/Not.hdl)
@@ -24,3 +25,15 @@ Mux4Way16 | 16-bit/4-way mux | [Mux4Way16.hdl](https://github.com/ldfrancis/nand
 Mux8Way16 |16-bit/8-way mux | [Mux8Way16.hdl](https://github.com/ldfrancis/nand_to_tetris/blob/main/nand_to_hack/boolean_logic/Mux8Way16.hdl)  
 DMux4Way | 4-way demultiplexor | [DMux4Way.hdl](https://github.com/ldfrancis/nand_to_tetris/blob/main/nand_to_hack/boolean_logic/DMux4Way.hdl)  
 DMux8Way | 8-way demultiplexor | [DMux8Way.hdl](https://github.com/ldfrancis/nand_to_tetris/blob/main/nand_to_hack/boolean_logic/DMux8Way.hdl)  
+
+### Project 2: Boolean Arithmetic
+In this project, the arithmetic logic unit of a general-purpose computer is built. The arithmetic logic unit is responsible for carrying out addition, subtraction and logical operations. The following chips are built:
+
+Chip Name | Description| Design(in .hdl) 
+--- | --- | --- 
+HalfAdder | Half Adder | .
+FullAdder | Full Adder | .
+Add16 | 16-bit Adder | .
+Inc16 | 16-bit incrementer | .
+ALU | Arithmetic Logic Unit (without handling of status outputs) | .
+ALU | Arithmetic Logic Unit (complete) | .
